@@ -126,7 +126,7 @@
 .pro_right_category span{
     font-weight: 600;
 }
-@media screen and (max-width:1240px) {
+@media screen and (max-width:1440px) {
     .pro{
         margin: 0 30px;
     }
